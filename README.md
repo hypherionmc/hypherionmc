@@ -1,8 +1,7 @@
-
-# Well, Hello there! 👋
+# Well, Hello there! 👋 
 My name is HypherionMC/HypherionSA and I make Minecraft mods, discord bots and generally everything else I can think of!
 
-![](https://cf.way2muchnoise.eu/author/hypherionsa.svg)
+![](https://cf.way2muchnoise.eu/author/hypherionsa.svg) <a href="https://www.buymeacoffee.com/hypherionsa"><img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hypherionsa&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux%2C%20Windows%2C%20MacOS-brightgreen?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -32,7 +31,7 @@ ___
 [![](https://img.shields.io/badge/-Discord-blueviolet)](https://discord.gg/PdVnXf9)
 [![](https://img.shields.io/badge/-Youtube-red)](https://discord.gg/PdVnXf9)
 
-<a href="https://www.buymeacoffee.com/hypherionsa"><img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hypherionsa&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
