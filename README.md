@@ -1,7 +1,7 @@
 # Well, Hello there! 👋 
 My name is HypherionMC/HypherionSA and I make Minecraft mods, discord bots and generally everything else I can think of!
 
-<a href="https://www.buymeacoffee.com/hypherionsa"><img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hypherionsa&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href='https://ko-fi.com/X8X65H136' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux%2C%20Windows%2C%20MacOS-brightgreen?style=flat&logo=linux&logoColor=white&color=2bbc8a)
