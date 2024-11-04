@@ -1,4 +1,9 @@
 # Well, Hello there! 👋 
+
+### I am available for freelance work. Feel free to reach out via my discord or via email
+
+---
+
 My name is HypherionMC/HypherionSA and I make Minecraft mods, discord bots and generally everything else I can think of!
 
 <a href='https://ko-fi.com/X8X65H136' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
