@@ -1,7 +1,5 @@
 # Well, Hello there! 👋 
 
-### I am available for freelance work. Feel free to reach out via my discord or via email
-
 ---
 
 My name is HypherionMC/HypherionSA and I make Minecraft mods, discord bots and generally everything else I can think of!
